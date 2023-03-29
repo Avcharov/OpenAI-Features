@@ -56,7 +56,7 @@ The author of this chanel tells really useful information about fine-tuning in A
 
 ## Customize (fine-tune) OpenAI model: How to make sure answers are from customized (fine-tuning) dataset ##
 
-The OP started very interesting thread, asking about what is embeddings and how to manage it.
+The OP started very interesting [thread](https://stackoverflow.com/questions/74000154/customize-fine-tune-openai-model-how-to-make-sure-answers-are-from-customized), asking about what is embeddings and how to manage it.
 
 ![OpenAI](./images/embedings-stack.JPG)
 
